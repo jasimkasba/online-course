@@ -1,0 +1,22 @@
+.subject{
+    display: flex;
+    border-bottom: 1px solid teal;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-right: 5px;
+    
+    
+}
+.subject img{
+    margin-right: 40px;
+}
+
+.subject-name{
+   margin-bottom: 5px;
+}
+
+.subject-name h4{
+    color: teal;
+    font-weight: 400;
+    
+}

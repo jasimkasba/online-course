@@ -1,0 +1,13 @@
+.course-container{
+    display: flex;
+    margin-top: 10px;
+
+}
+
+.subject-container{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 10px;
+    border-right: 1px solid teal;
+    
+}

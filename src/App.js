@@ -1,14 +1,30 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Navbar from './Components/Navbar';
+import Courses from './Components/Courses/Courses';
+
+
+
 
 
 function App() {
+
+
   return (
       
+    <div>
+      <Navbar></Navbar>
+      <Courses></Courses>
+
+     
+    </div>
+        
+        
+        
+        
+        
     
-    <Navbar />
+    
     
 
    
